@@ -11,6 +11,7 @@ use App\Http\Controllers\admin\catagoryController;
 use App\Http\Controllers\admin\brandController;
 use App\Http\Controllers\user\orderController;
 use App\Http\Controllers\user\confirmOrderController;
+use App\Http\Controllers\user\shippingController;
 
 
 /*
